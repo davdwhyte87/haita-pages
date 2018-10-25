@@ -1,6 +1,9 @@
 # haita-pages
 Front end interfaces for the haita platform
+
 The haita platform needs the followwing user interfaces
+
+
 (for users)
 -landing page (showing a few spots)
 -spots page (spots are hotels, houses etc) displaying all the spots
